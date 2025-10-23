@@ -6,4 +6,7 @@
 <a href="https://hein4.net/">https://hein4.net/</a>
 <a href="https://bei-bd.org/">https://bei-bd.org/</a>
 <a href="https://csd.goedomega3.com/">https://csd.goedomega3.com/</a>
+<a href="https://dprd.tanjabtimkab.go.id/">https://dprd.tanjabtimkab.go.id/</a>
+<a href="https://lembatakab.go.id/">https://lembatakab.go.id/</a>
+<a href="https://simposio.uniq.edu.pe/">https://simposio.uniq.edu.pe/</a>
 </div>
