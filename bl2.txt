@@ -23,14 +23,14 @@
                   </span>
               </a>            </li>
 <li class='global-header-menu__list-item' style="display: none;">
-                <a class="global-header-menu__link" href="https://olivesdecor.ae/">
+                <a class="global-header-menu__link" href="https://risetmu.or.id/">
                   <span class='global-header-menu__link-text'>
-                    JUDI BOLA
+                    LINK SLOT GACOR
                   </span>
               </a>            </li>
 <li class='global-header-menu__list-item' style="display: none;">
-                <a class="global-header-menu__link" href="https://cuacamau.com/">
+                <a class="global-header-menu__link" href="https://babes.ekatalogperpus.bnn.go.id/">
                   <span class='global-header-menu__link-text'>
-                    SLOT DANA
+                    LINK SLOT GACOR TERBAIK
                   </span>
               </a>            </li>
