@@ -5,9 +5,9 @@
                   </span>
               </a>            </li>
               <li class='global-header-menu__list-item' style="display: none;">
-                <a class="global-header-menu__link" href="https://lms.bkkthon.ac.th/">
+                <a class="global-header-menu__link" href="https://semisco.org/">
                   <span class='global-header-menu__link-text'>
-                    SLOT ONLINE
+                    SLOT QRIS
                   </span>
               </a>            </li>
               <li class='global-header-menu__list-item' style="display: none;">
