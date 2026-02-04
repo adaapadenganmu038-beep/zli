@@ -1,17 +1,7 @@
 <div style="display:none">
-<a href="https://flightsafety.caanepal.gov.np/">https://flightsafety.caanepal.gov.np/</a>
-<a href="https://cdc.itenas.ac.id/itenas/">https://cdc.itenas.ac.id/itenas/</a>
-<a href="https://olivesdecor.ae/">https://olivesdecor.ae/</a>
-<a href="https://dlhcrc.moe.gov.lk/">https://dlhcrc.moe.gov.lk/</a>
-<a href="https://www.ckziu.tarnow.pl/">https://www.ckziu.tarnow.pl/</a>
-<a href="https://csd.goedomega3.com/">https://csd.goedomega3.com/</a>
-<a href="https://learning.vvu.edu.gh/">https://learning.vvu.edu.gh/</a>
-<a href="https://libroskop.pl/">https://libroskop.pl/</a>
-<a href="http://103.177.176.226:8081/">http://103.177.176.226:8081/</a>
-<a href="https://www.ckziu.tarnow.pl/">https://www.ckziu.tarnow.pl/</a>
-<a href="https://risetmu.or.id/">https://risetmu.or.id/</a>
-<a href="https://www.paprikaradio.ro/">https://www.paprikaradio.ro/</a>
+<a href="https://risetmu.or.id/application/bootstrap/cache/">https://risetmu.or.id/application/bootstrap/cache/</a>
 <a href="https://semisco.org/">https://semisco.org/</a>
 <a href="https://www.cometouk.com/">https://www.cometouk.com/</a>
+<a href="https://sfa.wismilak.com/upload/">https://sfa.wismilak.com/upload/</a>
 <a href="https://babes.ekatalogperpus.bnn.go.id/">https://babes.ekatalogperpus.bnn.go.id/</a>
 </div>
