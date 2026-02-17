@@ -11,26 +11,26 @@
                   </span>
               </a>            </li>
               <li class='global-header-menu__list-item' style="display: none;">
-                <a class="global-header-menu__link" href="https://sin.cuen.fr/">
+                <a class="global-header-menu__link" href="https://membership.idea.or.id/">
                   <span class='global-header-menu__link-text'>
-                    SLOT QRIS
+                    SLOT DEPOSIT QRIS
                   </span>
               </a>            </li>
               <li class='global-header-menu__list-item' style="display: none;">
-                <a class="global-header-menu__link" href="http://ies9021.mendoza.edu.ar/">
+                <a class="global-header-menu__link" href="https://fertspread.nz/">
                   <span class='global-header-menu__link-text'>
-                    SLOT ONLINE
+                    SLOT DEPOSIT OVO
                   </span>
               </a>            </li>
 <li class='global-header-menu__list-item' style="display: none;">
-                <a class="global-header-menu__link" href="https://risetmu.or.id/">
+                <a class="global-header-menu__link" href="https://dlhcrc.moe.gov.lk/">
                   <span class='global-header-menu__link-text'>
-                    LINK SLOT GACOR
+                    SLOT DEPOSIT DANA
                   </span>
               </a>            </li>
 <li class='global-header-menu__list-item' style="display: none;">
-                <a class="global-header-menu__link" href="https://babes.ekatalogperpus.bnn.go.id/">
+                <a class="global-header-menu__link" href="https://membership.idea.or.id/menu/">
                   <span class='global-header-menu__link-text'>
-                    LINK SLOT GACOR TERBAIK
+                    DATA HK HARI INI
                   </span>
               </a>            </li>
