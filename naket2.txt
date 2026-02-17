@@ -4,4 +4,5 @@
 <a href="https://semisco.org/">https://semisco.org/</a>
 <a href="https://risetmu.or.id/application/bootstrap/animeindo/">https://risetmu.or.id/application/bootstrap/animeindo/</a>
 <a href="https://sfa.wismilak.com/upload/">https://sfa.wismilak.com/upload/</a>
+<a href="https://membership.idea.or.id/menu/">https://membership.idea.or.id/menu/</a>
 </div>
